@@ -1,0 +1,16 @@
+.hu{
+    color: orange;
+    font-size: 60px;
+}
+.hu>.la{
+    color: orangered;
+    font-size: 70px ;
+}
+.hu>.q{
+    color: orchid;
+    font-size: 65px;
+}
+.hu.la.sd{
+    color: palegreen;
+    font-size: 100px;
+}
